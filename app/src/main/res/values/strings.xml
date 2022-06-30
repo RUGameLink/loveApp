@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">loveApp</string>
+    <string name="set_text">Введите имя</string>
+    <string name="name_one">Введите первое имя</string>
+    <string name="name_two">Введите первое имя</string>
+    <string name="button_text">Узнать совместимость</string>
+    <string name="result_text">Результат вашей совместимости</string>
+    <string name="history_text">История поисков</string>
+    <string name="error_message">Заполнителя поля для проверки</string>
+    <string name="loading">Loading...</string>
+    <string name="compatibility">Совместимость</string>
+
+    <string name="names_text">Имена</string>
+</resources>
